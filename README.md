@@ -36,7 +36,7 @@ Anti Pishing feature in place this feature will help protect all users in our or
 <img src="https://imgur.com/Uq4BLGF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enabling Password protection  :  <br/>
+Enabling Password protection DevOps helps our development process by providing following features for github Code Scanning, Secrets scanning, dependencyscanning, security advisories , CI/CD Pipeline Security,  policy Enforcement  and unified Security Dashboard  :  <br/>
 <img src="https://imgur.com/JcwLe7b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
