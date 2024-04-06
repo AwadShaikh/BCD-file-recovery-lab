@@ -17,19 +17,19 @@ Microsoft Defender for cloud
 
 <p align="center">
 Launching DevOps Security, Microsoft Defender for DevOps aims to enhance the security posture of software development processes by integrating security controls, monitoring capabilities, and threat detection mechanisms directly into DevOps workflows.: <br/>
-<img src="https://imgur.com/mq0Y00g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/BPEZKXn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-selecting recommended actions to improve security posture:  <br/>
-<img src="https://imgur.com/6OKQQyq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating DevOps Security Instance for Github connector:  <br/>
+<img src="https://imgur.com/9mYIqee.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enabling Anti Pishing attack feature to improve security posture : <br/>
-<img src="https://imgur.com/Ck9g2wq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enabling permission to access Github : <br/>
+<img src="https://imgur.com/VwvyLT6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enabling Anti Pishing attack feature to improve security posture  <br/>
-<img src="https://imgur.com/eNS4XrM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Github linked to Microsoft DevOps Secuirty  <br/>
+<img src="https://imgur.com/CLRRU7z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Anti Pishing feature in place this feature will help protect all users in our organization from pishing attack  :  <br/>
