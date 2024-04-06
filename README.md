@@ -2,13 +2,13 @@
 
 
 <h2>Description</h2>
-
+Microsoft Defender for Cloud Apps provides comprehensive protection for Software-as-a-Service (SaaS) applications, enabling you to monitor and safeguard your cloud application data across the following key feature categories , Fundamental cloud access security broker (CASB) functionality, SaaS Security Posture Management (SSPM) features,Advanced threat protection and App-to-app protection.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-Microsoft XDR 
+Microsoft Defender for cloud 
 <h2>Environments Used </h2>
 
 - <b>MacOS Big Sur </b> 
@@ -16,7 +16,7 @@ Microsoft XDR
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launching Microsoft secure score it gives us representation of our organizations security posture it outlines overview, Recommended actions, History and Metrics and trends: <br/>
+Launching DevOps Security, Microsoft Defender for DevOps aims to enhance the security posture of software development processes by integrating security controls, monitoring capabilities, and threat detection mechanisms directly into DevOps workflows.: <br/>
 <img src="https://imgur.com/mq0Y00g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
