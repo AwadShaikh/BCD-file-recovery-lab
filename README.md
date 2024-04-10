@@ -1,14 +1,14 @@
-# Defender-for-cloud-Apps lab# 
+# Azure Active Directory  lab# 
 
 
 <h2>Description</h2>
-Microsoft Defender for Cloud Apps provides comprehensive protection for Software-as-a-Service (SaaS) applications, enabling you to monitor and safeguard your cloud application data across the following key feature categories , Fundamental cloud access security broker (CASB) functionality, SaaS Security Posture Management (SSPM) features,Advanced threat protection and App-to-app protection.
+Azure Active Directory provides a comprehensive identity and access management solution that helps organizations enhance security, streamline user access, and achieve greater control and visibility over their digital identities and resources.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-Microsoft Defender for cloud 
+Azure Active directory  
 <h2>Environments Used </h2>
 
 - <b>MacOS Big Sur </b> 
@@ -16,32 +16,48 @@ Microsoft Defender for cloud
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launching DevOps Security, Microsoft Defender for DevOps aims to enhance the security posture of software development processes by integrating security controls, monitoring capabilities, and threat detection mechanisms directly into DevOps workflows.: <br/>
-<img src="https://imgur.com/BPEZKXn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Creating new users in azure directory.: <br/>
+<img src="https://imgur.com/T5wQ71P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Creating DevOps Security Instance for Github connector:  <br/>
-<img src="https://imgur.com/9mYIqee.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+:  <br/>
+<img src="https://imgur.com/ftiw9zT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enabling permission to access Github : <br/>
-<img src="https://imgur.com/VwvyLT6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+New User Successfully created in Azure Active directory : <br/>
+<img src="https://imgur.com/TTE2HHi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Github linked to Microsoft DevOps Secuirty  <br/>
-<img src="https://imgur.com/CLRRU7z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Assigning users to the IT support Sydney group   <br/>
+<img src="https://imgur.com/fggd5ub.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Anti Pishing feature in place this feature will help protect all users in our organization from pishing attack  :  <br/>
-<img src="https://imgur.com/Uq4BLGF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Assigning users to the IT support Sydney group  :  <br/>
+<img src="https://imgur.com/358Yb6o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enabling Password protection DevOps helps our development process by providing following features for github Code Scanning, Secrets scanning, dependencyscanning, security advisories , CI/CD Pipeline Security,  policy Enforcement  and unified Security Dashboard  :  <br/>
-<img src="https://imgur.com/JcwLe7b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Group members successfully assigned to the IT support Sydney group :  <br/>
+<img src="https://imgur.com/fggd5ub.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Launching simulation :  <br/>
-<img src="https://imgur.com/nwEXhE9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Reseting password on Adams account   :  <br/>
+<img src="https://imgur.com/JU7Bgtt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Password successfully reset  :  <br/>
+<img src="https://imgur.com/VcC6gZL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Group members successfully assigned to the IT support Sydney group :  <br/>
+<img src="https://imgur.com/fggd5ub.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+ Reseting password on Adams account   :  <br/>
+<img src="https://imgur.com/JU7Bgtt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+
+ 
 <br />
 <br /> 
 <br />
