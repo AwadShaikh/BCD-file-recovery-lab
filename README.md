@@ -48,29 +48,23 @@ Password successfully reset  :  <br/>
 <img src="https://imgur.com/VcC6gZL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Group members successfully assigned to the IT support Sydney group :  <br/>
-<img src="https://imgur.com/fggd5ub.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Assigning role based access control policy on Jessys accont:  <br/>
+<img src="https://imgur.com/lh4vunZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
- Reseting password on Adams account   :  <br/>
-<img src="https://imgur.com/JU7Bgtt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
-
- 
+ Assigning role based access control policy on Jessys accont:  <br/>
+<img src="https://imgur.com/6FKQqqS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Successfully assigned Jessy as a Team admin role   :  <br/>
+<img src="https://imgur.com/sRi1ExZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 <br />
 <br /> 
 <br />
 <br />   
-Lab output :  <br/>
-Training Simulation email in the assigned users inbox:  <br/>
-<img src="https://imgur.com/1pohgJh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
- Output if the user clicks the link in the email  :  <br/>
-<img src="https://imgur.com/M838GBr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
+
 <!--
  ```diff
 - text in red
