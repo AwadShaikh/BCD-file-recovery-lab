@@ -1,77 +1,39 @@
-# Azure Active Directory  lab# 
 
 
 <h2>Description</h2>
-Azure Active Directory provides a comprehensive identity and access management solution that helps organizations enhance security, streamline user access, and achieve greater control and visibility over their digital identities and resources.
+Using "rebuildbcd" to rebuild the Boot Configuration Data (BCD) store. This process helps fix boot-related issues by recreating the BCD store from scratch, potentially resolving problems such as boot failures, missing boot entries, or issues caused by corrupted BCD data.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
-
-Azure Active directory  
+Windows troubleshooting
 <h2>Environments Used </h2>
 
-- <b>MacOS Big Sur </b> 
+- <b>Windows 10 </b> 
 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Creating new users in azure directory.: <br/>
-<img src="https://imgur.com/T5wQ71P.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Starting windows which displays BCD corrupted message with error code 0xc000000f: <br/>
+<img src="https://imgur.com/Zkvg4Ha.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-:  <br/>
-<img src="https://imgur.com/ftiw9zT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Starting the troubleshooting process by selecting Windows 10 iso.file :  <br/>: <br/
+<img src="https://imgur.com/HKsFfpR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-New User Successfully created in Azure Active directory : <br/>
-<img src="https://imgur.com/TTE2HHi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Chossing command line prompt to start running rebuildingbcd  <br/>
+<img src="https://imgur.com/iEuCmtj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Assigning users to the IT support Sydney group   <br/>
-<img src="https://imgur.com/fggd5ub.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Started bcd dignostic process which will build bcd files from stratch  :  <br/>
+<img src="https://imgur.com/840iuIX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Assigning users to the IT support Sydney group  :  <br/>
-<img src="https://imgur.com/358Yb6o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Group members successfully assigned to the IT support Sydney group :  <br/>
-<img src="https://imgur.com/fggd5ub.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
- Reseting password on Adams account   :  <br/>
-<img src="https://imgur.com/JU7Bgtt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Password successfully reset  :  <br/>
-<img src="https://imgur.com/VcC6gZL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Assigning role based access control policy on Jessys accont:  <br/>
-<img src="https://imgur.com/lh4vunZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
- Assigning role based access control policy on Jessys accont:  <br/>
-<img src="https://imgur.com/6FKQqqS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Successfully assigned Jessy as a Team admin role   :  <br/>
-<img src="https://imgur.com/sRi1ExZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ BCD completed Windows 10 back in normal running mode :  <br/>
+<img src="https://imgur.com/3POxv4u.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 <br />
 <br /> 
-<br />
-<br />   
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
-](https://github.com/AwadShaikh/Security-Posture-Improvement-Lab)
